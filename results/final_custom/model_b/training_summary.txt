@@ -1,0 +1,12 @@
+Model_B FINAL TRAINING SUMMARY
+============================================================
+
+Trainable parameters : 5,407
+Model size on disk   : 111.86 KB
+Epochs trained       : 30
+Total training time  : 51.01 s
+Average epoch time   : 1.685 s
+Best validation acc. : 75.67%
+Best validation epoch: 30
+Test accuracy        : 73.65%
+Test loss            : 0.7433
