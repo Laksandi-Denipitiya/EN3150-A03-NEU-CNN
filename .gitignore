@@ -8,5 +8,9 @@ __pycache__/
 # Generated preprocessing data
 preprocessing/output/
 
+# Saved model weights (keep metrics/plots, ignore heavy weight files)
+*.keras
+*.h5
+
 # Jupyter
 .ipynb_checkpoints/
