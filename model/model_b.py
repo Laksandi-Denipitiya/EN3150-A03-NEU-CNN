@@ -4,7 +4,6 @@ IMAGE_SIZE = 64
 NUM_CLASSES = 6
 
 
-
 def build_model_b():
     model = tf.keras.Sequential([
         tf.keras.layers.Input(
