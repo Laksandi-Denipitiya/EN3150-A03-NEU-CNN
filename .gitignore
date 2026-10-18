@@ -2,16 +2,16 @@
 __pycache__/
 *.pyc
 
-data/
-datasets/
-preprocessing/output/
 # Virtual environment
 .venv/
+venv/
 
 # Generated preprocessing data
 preprocessing/output/
 
-venv/
-.env
+# Saved model weights (keep metrics/plots, ignore heavy weight files)
+*.keras
+*.h5
+
 # Jupyter
 .ipynb_checkpoints/
