@@ -448,6 +448,7 @@ if __name__ == "__main__":
     # Final comparison
     # ========================================================
 
+
     print("\n\n")
     print("=" * 90)
     print("FINAL OPTIMIZER COMPARISON")
