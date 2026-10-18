@@ -13,5 +13,6 @@ preprocessing/output/
 
 venv/
 .env
+.env
 # Jupyter
 .ipynb_checkpoints/
