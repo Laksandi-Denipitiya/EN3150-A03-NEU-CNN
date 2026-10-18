@@ -12,7 +12,7 @@ IMAGE_SIZE = 64
 BATCH_SIZE = 32
 
 TEST_DIR = Path("preprocessing/output/test")
-MODEL_PATH = Path("results/final_custom/model_b/best_model_b.keras")
+MODEL_PATH = Path("results/model_b/best_model_b.keras")
 
 CLASS_NAMES = [
     "crazing",
