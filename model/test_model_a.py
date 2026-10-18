@@ -24,6 +24,7 @@ TRAIN_DIR = Path("preprocessing/output/train")
 VALID_DIR = Path("preprocessing/output/valid")
 TEST_DIR = Path("preprocessing/output/test")
 
+
 IMAGE_SIZE = 64
 
 CLASS_NAMES = [
