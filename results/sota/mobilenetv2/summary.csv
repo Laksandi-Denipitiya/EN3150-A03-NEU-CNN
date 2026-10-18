@@ -1,0 +1,2 @@
+Model,Parameters,Model Size (MB),Test Accuracy (%),Macro F1,Training Time (s)
+MobileNetV2,2265670,20.796,98.31,0.9821,407.28
