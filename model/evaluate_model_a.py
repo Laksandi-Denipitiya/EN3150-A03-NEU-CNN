@@ -12,7 +12,7 @@ IMAGE_SIZE = 64
 BATCH_SIZE = 32
 
 TEST_DIR = Path("preprocessing/output/test")
-MODEL_PATH = Path("results/final_custom/model_a/best_model_a.keras")
+MODEL_PATH = Path("results/model_a/best_model_a.keras")
 
 CLASS_NAMES = [
     "crazing",
@@ -211,4 +211,3 @@ print(
 )
 
 print("\nEvaluation complete.")
-
