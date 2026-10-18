@@ -1,9 +1,9 @@
 
 import tensorflow as tf
 
-
 IMAGE_SIZE = 64
 NUM_CLASSES = 6
+
 
 def build_model_a():
     model = tf.keras.Sequential([
