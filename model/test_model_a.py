@@ -11,6 +11,7 @@ from model_a import build_model_a
 BATCH_SIZE = 32
 EPOCHS = 30
 
+
 OUTPUT_DIR = Path("results/model_a")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
