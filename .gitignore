@@ -1,15 +1,17 @@
+# Python
 __pycache__/
-.ipynb_checkpoints/
 *.pyc
 
 data/
 datasets/
 preprocessing/output/
+# Virtual environment
+.venv/
 
-*.h5
-*.keras
-*.pth
-*.pt
+# Generated preprocessing data
+preprocessing/output/
 
 venv/
 .env
+# Jupyter
+.ipynb_checkpoints/
