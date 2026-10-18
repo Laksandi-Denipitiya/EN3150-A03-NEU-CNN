@@ -1,4 +1,0 @@
-model,parameters,keras_file_mb,input_shape,batch_size,warmup_runs,timed_runs,mean_latency_ms,median_latency_ms,p95_latency_ms
-Custom Model B,5407,0.109,"(None, 64, 64, 1)",1,20,100,1.612,1.564,2.212
-MobileNetV2,2265670,20.796,"(None, 128, 128, 3)",1,20,100,11.087,10.593,14.633
-EfficientNet-B0,4057257,27.667,"(None, 128, 128, 3)",1,20,100,21.468,19.417,34.287

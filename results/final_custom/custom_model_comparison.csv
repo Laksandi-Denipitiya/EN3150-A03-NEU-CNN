@@ -1,3 +1,0 @@
-Model,Trainable Parameters,Model Size (KB),Best Validation Accuracy (%),Best Validation Epoch,Test Accuracy (%),Test Loss,Average Epoch Time (s),Total Training Time (s)
-Model_A,529542,6244.41,94.63,18,92.30,0.2367,1.845,55.71
-Model_B,5407,111.86,75.67,30,73.65,0.7433,1.685,51.01

@@ -1,2 +1,0 @@
-Model,Selected Stage,Parameters,Model Size (MB),Test Accuracy (%),Test Loss,Macro F1,Training Time (s)
-EfficientNet-B0,Stage 2,4057257,27.667,98.15,0.068,0.9825,984.49
